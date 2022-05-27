@@ -7,5 +7,7 @@ Realização
 DevSuperior - Escola de programação
 
 DevSuperior no Instagram: https://www.instagram.com/devsuperior.ig/
+
 DevSuperior no Youtube: https://www.youtube.com/c/DevSuperior
+
 DevSuperior no Linkedin: https://www.linkedin.com/school/devsuperior/
